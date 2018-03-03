@@ -1,4 +1,4 @@
-# splunkalert
+# splunk-alerter.py
 python script for generating email based splunk alerts
 
 ## How it works
